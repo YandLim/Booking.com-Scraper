@@ -1,5 +1,5 @@
 # [Booking.com Scraper](https://github.com/MrAnon89/Booking.com-Scraper)
-Start: XX/XX/XXXX  |  Finish: XX/XX/XXXX
+Start: 13/12/2024  |  Finish: 20/12/2024
 
 The Booking.com Scraper automates the process of extracting hotel listings, prices, ratings, and availability from Booking.com. It helps users gather valuable travel data efficiently without manual searching. The scraper is designed to handle dynamic content using Selenium and organize the extracted data using Pandas.
 
